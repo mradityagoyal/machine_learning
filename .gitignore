@@ -87,3 +87,7 @@ ENV/
 
 # Rope project settings
 .ropeproject
+
+#graphlab stuff
+*.gl
+.DS_Store
