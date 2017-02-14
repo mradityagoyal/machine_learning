@@ -90,4 +90,9 @@ ENV/
 
 #graphlab stuff
 *.gl
-.DS_Store
+*.DS_Store
+*.ini
+*.bin
+*.0000
+*.frame_idx
+*.sidx
